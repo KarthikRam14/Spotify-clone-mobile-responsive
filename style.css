@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Signika', sans-serif;
+}
+
+img:not(.logoo){
+    height: 25px;
+    width: 25px;
+}
+
+nav{
+    position: absolute;
+    color: white;
+    word-spacing: 1px;
+    background-color: black;
+    margin: 10px;
+}
+
